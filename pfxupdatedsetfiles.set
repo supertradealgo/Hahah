@@ -1,0 +1,16 @@
+InformationSets============== Information Setting =============
+CountAvgSpread=true
+CountAvgExecution=true
+CountAvgSlippage=true
+TimesForAverage=15
+LotSetting============== Lot Setting =============
+LotExponent=1.0
+Lots=0.01
+EASetting============== MaxTrades Setting =============
+MaxTrades=1000
+CommisionsSet============== Commissions Setting =============
+CommissionInPip=0.0
+CommissionInCur=0.0
+GetCommissionAuto=true
+UseTrailingStop=false
+BacktestingInfo=true
